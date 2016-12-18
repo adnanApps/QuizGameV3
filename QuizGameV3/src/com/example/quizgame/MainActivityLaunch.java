@@ -40,6 +40,7 @@ public class MainActivityLaunch extends Activity {
 			@Override
 			public void onClick(View v) {
 				startActivity(new Intent(MainActivityLaunch.this,MainActivity3.class));
+				//start Flash cards activity
 			}
 		});
  
