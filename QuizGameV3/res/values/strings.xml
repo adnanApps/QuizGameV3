@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizGame</string>
+    <string name="hello_world">Hello world!</string>
+
+     <string-array name="definitions">
+        <item>The Capital of France  </item>
+        <item>The Capital of Spain  </item>
+        <item>The Capital of the United Kingdom   </item>
+        <item>The Capital of Nigeria  </item>
+    </string-array>
+    <string-array name="words">
+        <item>paris</item>
+        <item>madrid</item>
+        <item>london</item>
+        <item>abuja</item>
+    </string-array>
+    
+    <string-array name="questionsFillin">
+        <item>The Capital of France is </item>
+        <item>The Capital of Spain is </item>
+        <item>The Capital of the United Kingdom  is </item>
+        <item>The Capital of Nigeria is </item>
+    </string-array>
+    <string-array name="answersFillin">
+        <item>paris</item>
+        <item>madrid</item>
+        <item>london</item>
+        <item>abuja</item>
+    </string-array>
+    
+    <string-array name="questions">
+        <item>The Capital of France is </item>
+        <item>The Capital of Spain is </item>
+        <item>The Capital of the United Kingdom  is </item>
+        <item>The Capital of Nigeria is </item>
+    </string-array>
+    <string-array name="answerA">
+        <item>Paris</item>
+        <item>Paris</item>
+        <item>Paris</item>
+        <item>Paris</item>
+    </string-array>
+    <string-array name="answerB">
+        <item>Madrid</item>
+        <item>Madrid</item>
+        <item>Madrid</item>
+        <item>Madrid</item>
+    </string-array>
+    <string-array name="answerC">
+        <item>London</item>
+        <item>London</item>
+        <item>London</item>
+        <item>London</item>
+    </string-array>
+    <string-array name="answerD">
+        <item>Abuja</item>
+        <item>Abuja</item>
+        <item>Abuja</item>
+        <item>Abuja</item>
+    </string-array>
+    <string-array name="answers">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+
+</resources>

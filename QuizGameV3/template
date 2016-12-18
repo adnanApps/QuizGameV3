@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="questions">
+        <item >q1</item>
+        <item >q2</item>
+        <item >q3</item>
+          <item >q4</item>
+    </string-array>
+    <string-array name="answerA">
+        <item >a1</item>
+        <item >a2</item>
+        <item >a3</item>
+        <item >a4</item>
+    </string-array>
+ <string-array name="answerB">
+        <item >b1</item>
+        <item >b2</item>
+        <item >b3</item>
+        <item >b4</item>
+    </string-array>
+     <string-array name="answerC">
+        <item >c1</item>
+        <item >c2</item>
+        <item >c3</item>
+        <item >c4</item>
+    </string-array>
+     <string-array name="answerD">
+        <item >d1</item>
+        <item >d2</item>
+        <item >d3</item>
+        <item >d4</item>
+    </string-array>
+     <string-array name="answers">
+         <item >a</item>
+         <item >b</item>
+         <item >c</item>
+         <item >d</item>
+     </string-array>
+</resources>
+List the requirements needed to add a third activity that could be used to display flash cards. 
+1- create the string arrays for the words and definitions. 
+2- Add a new activity called flash cards. 
+3- add a button to the main activity that will launch the flash cards activity. 
+4- design the flash card activity XML with a textview that will switch between word and definition. Add to buttons (flip card , next )
+5- add function code to the java file that will handle the two button clicks. 
