@@ -15,16 +15,6 @@
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <Button
-        android:id="@+id/Button03"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/Button02"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="27dp"
-        android:text="Flash Cards"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
-
-    <Button
         android:id="@+id/Button01"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -41,7 +31,17 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="19dp"
-        android:text="Welcome 2"
+        android:text="Welcome "
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="79dp"
+        android:text="Flash Cards"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
